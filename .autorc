@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "novlazar23",
+  "repo": "container-krejncw",
+  "name": "novlazar23",
+  "email": "sebastian.tillack@googlemail.com",
+}
